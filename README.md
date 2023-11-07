@@ -16,3 +16,9 @@ Ej.- cd ../../
 ```
 
 - 00-Point (```cd assignments/00-Point```)
+
+# Navegación - Home
+Para regresar al Home del repositorio, use:
+```
+cd /workspaces/TC1033.*
+```
